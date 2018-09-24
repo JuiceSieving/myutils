@@ -1,0 +1,8 @@
+# myutils
+1 AESCryption包含对称AES加密与解密算法
+2 Base64Cryption包含Base64加密与解密算法
+3 CaesarCryption包含凯撒加密与解密算法
+4 DESCryption包含对称DES加密与解密算法
+5 MDCryption包含MD5、SHA1、SHA256算法加密与解密
+6 RSACryption包含RSA非对称加密，公钥及私钥
+7 SignatureCryption包含数字签名SHA256withRSA是RSA与DigestMessage的组合加密与解密算法
